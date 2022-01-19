@@ -5,7 +5,7 @@ name = "SDCoffee"
 light = true
 
 # Primary
-primary = "#FDFDFD"
+primary = "#F0F0F0"
 
 # Menu
 menu_primary = "#FDFDFD"
@@ -26,4 +26,3 @@ link_hover = "#434343"
   home_section_odd = "rgb(26, 32, 44)"
   home_section_even = "rgb(26, 32, 44)"
   menu_primary = "rgb(26, 32, 44)"
- 
