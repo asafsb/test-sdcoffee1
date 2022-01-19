@@ -36,7 +36,7 @@ subtitle = ""
     enable = false
 
 [design]
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
