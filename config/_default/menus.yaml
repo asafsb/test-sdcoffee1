@@ -7,6 +7,18 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About
-    url: about/
+  - name: Posts
+    url: /#blog-posts
     weight: 20
+  - name: About
+    url: /#about
+    weight: 30
+#  - name: About
+#    url: about/
+#    weight: 20
+#  - name: About
+#    url: about/
+#    weight: 20
+#  - name: About
+#    url: about/
+#    weight: 20
