@@ -51,12 +51,6 @@
   <!--- changed to: printf "918x220 q90 %s" --->
   {{ $image := .Fill (printf "918x220 q90 %s" $anchor) }}
   <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
-    <!---
-    <div class="img-hover-zoom">
-      <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-           class="article-banner" alt="{{ $item.Title }}" loading="lazy">
-    </div>
-    --->
     <img src="{{ $image.RelPermalink }}" class="article-banner" alt="{{ $item.Title }}" loading="lazy">
   </a>
   {{end}}
