@@ -1,0 +1,29 @@
+# Theme metadata
+name = "SDCoffee"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#FDFDFD"
+
+# Menu
+menu_primary = "#FDFDFD"
+menu_text = "#000"
+menu_text_active = "#1A3E45"
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "#F2F2F2"
+home_section_even = "rgb(255, 255, 255)"
+
+# Links
+link = "#434343"
+link_hover = "#434343"
+
+[dark]
+  background = "rgb(26, 32, 44)"
+  home_section_odd = "rgb(26, 32, 44)"
+  home_section_even = "rgb(26, 32, 44)"
+  menu_primary = "rgb(26, 32, 44)"
+ 
