@@ -10,7 +10,7 @@ role: Product Solutions Architect, VMware Cloud
 
 # Status emoji
 status:
-  icon: 
+  icon:
 
 # Organizations/Affiliations
 organizations:
@@ -77,56 +77,56 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
 ## [Certifications](https://www.credly.com/users/asaf-blubshtein/badges?sort=-state_updated_at)
 
 <div class="row">
-  <div class="cloumn">
+  <div class="col">
     <a href="https://vexpert.vmware.com/directory/6550">
-      <img src="/img/about/vexpert-stars.png" alt="vExpert - 1 year" width="256" style="border-radius: 10px">
+      <img src="/img/about/vexpert-stars.png" alt="vExpert - 1 year" style="border-radius: 10px">
     </a>
   </div>
-  <div class="cloumn">
+  <div class="col">
   &nbsp&nbsp
   </div>
-  <div class="cloumn">
+  <div class="col">
     <a href="https://vexpert.vmware.com/directory/6550">
-      <img src="/img/about/vexpert-year.png" alt="vExpert - 1 star" width="256" style="border-radius: 10px">
+      <img src="/img/about/vexpert-year.png" alt="vExpert - 1 star" style="border-radius: 10px">
     </a>
   </div>
-  <div class="cloumn">
+  <div class="col">
     <a href="https://vexpert.vmware.com/directory/6550">
-      <img src="/img/about/vexpert-vmc.png" alt="vExpert - VMware Cloud on AWS" width="256" >
+      <img src="/img/about/vexpert-vmc.png" alt="vExpert - VMware Cloud on AWS" >
     </a>
   </div>
 </div>
 <div class="row">
-<div class="cloumn">
+<div class="col">
   <a href="https://www.credly.com/badges/d5336284-d504-4220-bb76-b61386cca480/public_url">
-    <img src="/img/about/vcdx.png" alt="VMware Certified Design Expert – #292" width="198">
+    <img src="/img/about/vcdx.png" alt="VMware Certified Design Expert – #292">
   </a>
 </div>
-  <div class="cloumn">
+  <div class="col">
     <a href="https://www.credly.com/badges/79ea56ac-f0a7-43fa-af2a-bb7e5790fd2d">
-      <img src="/img/about/vcdx-dcv.png" alt="VMware Certified Design Expert – Data Center Virtualization (VCDX #292)" width="198">
+      <img src="/img/about/vcdx-dcv.png" alt="VMware Certified Design Expert – Data Center Virtualization (VCDX #292)">
     </a>
   </div>
-  <div class="cloumn">
+  <div class="col">
     <a href="https://www.credly.com/badges/9f7a5b17-d52b-4fc8-8acd-7b3c7b39284e">
-    <img src="/img/about/vcix-nv.png" alt="VMware Certified Implementation Expert – Network Virtualization" width="198">
+    <img src="/img/about/vcix-nv.png" alt="VMware Certified Implementation Expert – Network Virtualization">
     </a>
   </div>
-  <div class="cloumn">
+  <div class="col">
     <a href="https://www.credly.com/badges/329804b9-5a64-4918-ae20-d0bc5f4b422b/public_url">
-    <img src="/img/about/vcix-cma.png" alt="VMware Certified Implementation Expert - Cloud Management and Automation" width="198">
+    <img src="/img/about/vcix-cma.png" alt="VMware Certified Implementation Expert - Cloud Management and Automation">
     </a>
   </div>
 </div>
 <div class="row">
-  <div class="cloumn">
+  <div class="col">
     <a href="https://www.credly.com/badges/5c937e3c-73bf-403f-aea5-7c050149a8a4">
-      <img src="/img/about/ccna_rs.png" alt="Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)" width="198">
+      <img src="/img/about/ccna_rs.png" alt="Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)">
     </a>
   </div>
-  <div class="cloumn">
+  <div class="col">
     <a href="https://www.credly.com/badges/11362654-1094-4d6d-8f9c-630c0820069d">
-      <img src="/img/about/mcse.png" alt="MCSE: Cloud Platform and Infrastructure" width="198">
+      <img src="/img/about/mcse.png" alt="MCSE: Cloud Platform and Infrastructure">
     </a>
   </div>
 </div>
