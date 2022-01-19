@@ -83,9 +83,6 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
     </a>
   </div>
   <div class="col">
-  &nbsp&nbsp
-  </div>
-  <div class="col">
     <a href="https://vexpert.vmware.com/directory/6550">
       <img src="/img/about/vexpert-year.png" alt="vExpert - 1 star" style="border-radius: 10px">
     </a>
@@ -128,6 +125,10 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
     <a href="https://www.credly.com/badges/11362654-1094-4d6d-8f9c-630c0820069d">
       <img src="/img/about/mcse.png" alt="MCSE: Cloud Platform and Infrastructure">
     </a>
+  </div>
+  <div class="col">
+  </div>
+  <div class="col">
   </div>
 </div>
 
