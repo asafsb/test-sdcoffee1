@@ -79,12 +79,12 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
 <div class="row">
   <div class="col">
     <a href="https://vexpert.vmware.com/directory/6550">
-      <img src="/img/about/vexpert-stars.png" alt="vExpert - 1 year" style="border-radius: 10px">
+      <img src="/img/about/vexpert-stars.png" alt="vExpert - 1 year">
     </a>
   </div>
   <div class="col">
     <a href="https://vexpert.vmware.com/directory/6550">
-      <img src="/img/about/vexpert-year.png" alt="vExpert - 1 star" style="border-radius: 10px">
+      <img src="/img/about/vexpert-year.png" alt="vExpert - 1 star">
     </a>
   </div>
   <div class="col">
