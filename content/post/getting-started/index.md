@@ -30,7 +30,6 @@ image:
 
 authors:
 - admin
-- 美杨
 
 tags:
 - Academic

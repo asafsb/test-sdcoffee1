@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: /
+    url: /#header
     weight: 10
   - name: Posts
     url: /#blog-posts
