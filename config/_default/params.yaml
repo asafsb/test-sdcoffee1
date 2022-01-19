@@ -7,7 +7,7 @@
 
 theme: sdcoffee
 day_night: true
-font: ''
+font: 'sdcoffee'
 font_size: L
 
 # SEO
@@ -15,19 +15,19 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-twitter: 'wowchemy'
+description: 'Blog about software-defined infrastructure, virtualization, and coffee'
+twitter: 'AsafBlubshtein'
 
 # Site header
 
 main_menu:
   enable: true
   align: r
-  show_logo: false
+  show_logo: true
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
@@ -38,10 +38,13 @@ time_format: '3:04 PM'
 
 highlight: true
 highlight_languages:
-  - r
+  - powershell
+  - python
+  - bash
+  - shell
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 require_isotope: false  # Enable if you use Portfolio widget or Publication pages
 edit_page:
   repo_url: ''
@@ -51,8 +54,8 @@ edit_page:
     post: false
 show_related:
   post: true
-email: test@example.org
-sharing_image: ''
+email: sdcoffee.blog@gmail.com
+sharing_image: 'SDCoffeeLogo.png'
 reading_time: true
 section_pager: true
 sharing: true
