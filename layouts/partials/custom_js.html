@@ -10,7 +10,7 @@ https://github.com/vfeskov/vanilla-back-to-top -->
 
 <!--Adds GraphComment for the entire site. Necessary to load comment number in the Java  -->
 {{/* GraphComment Comment Count JS. */}}
-{{ if and (site.Params.comments.provider) (site.Params.comments.graphcomment.show_count | default true) }}
+{{ if and (site.Params.comments.provider == "graphcomment") (site.Params.comments.graphcomment.show_count | default true) }}
 <script type="text/javascript">
 
   /* - - - CONFIGURATION VARIABLES - - - */
