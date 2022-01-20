@@ -1,1 +1,9 @@
+// Override this file to add your own SCSS styling.
 
+
+// Add GraphComment counter
+.gc-counter::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f075  ";
+  font-weight: 900
+}
