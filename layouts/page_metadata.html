@@ -41,10 +41,8 @@
   {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    {{ $page.ReadingTime }} {{ i18n "minute_read" }}
+    {{ $page.ReadingTime }} {{ i18n "minute_reading_time" }}
   </span>
-  <span class="middot-divider"></span>
-  <a class="gc-counter" data-url="{{ $page.Permalink }}" href="{{ $page.RelPermalink }}#graphcomment"><!-- Count will be inserted here --></a>
   {{ end }}
 
   {{/* Show GraphComment comment count if enabled. */}}
