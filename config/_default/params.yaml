@@ -73,8 +73,8 @@ comments:
   provider: 'graphcomment'
   commentable:
     post: true
-  graphcomment:
-    show_count: true
+  # graphcomment:
+  #   show_count: true
   disqus:
     shortname: ''
     show_count: true
