@@ -70,9 +70,11 @@ avatar:
   gravatar: false
   shape: circle
 comments:
-  provider: ''
+  provider: 'graphcomment'
   commentable:
     post: true
+  graphcomment:
+    show_count: true
   disqus:
     shortname: ''
     show_count: true
