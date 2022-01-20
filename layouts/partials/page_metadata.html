@@ -49,8 +49,8 @@
   {{ $comments_provider := trim (site.Params.comments.provider | lower) " " }}
   {{ $commentable_page := $page.Params.commentable }}
   {{ if (eq $comments_provider "graphcomment") | and (site.Params.comments.graphcomment.show_count | default true) | and $commentable_page }}
-    <span class="middot-divider"></span>
-    <a class="gc-counter" data-url="{{ $page.Permalink }}" href="{{ $page.RelPermalink }}#graphcomment"><!-- Count will be inserted here --></a>
+  <span class="middot-divider"></span>
+  <a class="gc-counter" data-url="{{ $page.Permalink }}" href="{{ $page.RelPermalink }}#graphcomment"><!-- Count will be inserted here --></a>
   {{ end}}
 
   {{/* Show Disqus comment count if enabled. */}}
