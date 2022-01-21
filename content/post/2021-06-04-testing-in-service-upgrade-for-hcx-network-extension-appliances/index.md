@@ -36,9 +36,9 @@ To compare the downtime the extended networks experience using each upgrade meth
 * **<u>[In-Service Upgrade](#in-service-upgrade)</u>**
 * **<u>[Conclusion](#conclusion)</u>**
 
-{{% alert note %}}
+{{% callout  note %}}
 This test was performed in my lab environment, so the actual results in other environments may vary
-{{% /alert %}}
+{{% /callout  %}}
 
 ### Test Environment Overview
 {{< figure src="image1.png" alt="Test Environment Diagram">}}
