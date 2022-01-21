@@ -7,3 +7,8 @@
   content: "\f075  ";
   font-weight: 900
 }
+
+// Remove table scroll bar unless necessary
+table {
+  overflow-x: auto;
+}
