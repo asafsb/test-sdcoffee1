@@ -77,17 +77,17 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
 ## [Certifications](https://www.credly.com/users/asaf-blubshtein/badges?sort=-state_updated_at)
 
 <div class="row">
-  <div class="col">
+  <div class="col-lg-4">
     <a href="https://vexpert.vmware.com/directory/6550">
       <img src="/img/about/vexpert-stars.png" alt="vExpert - 1 year">
     </a>
   </div>
-  <div class="col">
+  <div class="col-lg-4">
     <a href="https://vexpert.vmware.com/directory/6550">
       <img src="/img/about/vexpert-year.png" alt="vExpert - 1 star">
     </a>
   </div>
-  <div class="col">
+  <div class="col-lg-3">
     <!-- <a href="https://vexpert.vmware.com/directory/6550">
       <img src="/img/about/vexpert-vmc.png" alt="vExpert - VMware Cloud on AWS" >
     </a> -->
@@ -102,7 +102,7 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
     <img src="/img/about/vcdx.png" alt="VMware Certified Design Expert – #292">
   </a> -->
   <a href="https://www.credly.com/badges/110c15d3-0bf5-4462-b5c2-f41ca27ef8cc/public_url">
-    <img src="avatar.png" alt="VMware Certified Professional - Application Modernization">
+    <img src="/img/about/vcp-ma.png" alt="VMware Certified Professional - Application Modernization">
   </a>
 </div>
   <div class="col">
