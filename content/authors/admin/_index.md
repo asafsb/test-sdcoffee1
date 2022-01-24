@@ -88,15 +88,21 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
     </a>
   </div>
   <div class="col">
-    <a href="https://vexpert.vmware.com/directory/6550">
+    <!-- <a href="https://vexpert.vmware.com/directory/6550">
       <img src="/img/about/vexpert-vmc.png" alt="vExpert - VMware Cloud on AWS" >
+    </a> -->
+    <a href="https://www.credly.com/badges/d5336284-d504-4220-bb76-b61386cca480/public_url">
+      <img src="/img/about/vcdx.png" alt="VMware Certified Design Expert – #292">
     </a>
   </div>
 </div>
 <div class="row">
 <div class="col">
-  <a href="https://www.credly.com/badges/d5336284-d504-4220-bb76-b61386cca480/public_url">
+  <!-- <a href="https://www.credly.com/badges/d5336284-d504-4220-bb76-b61386cca480/public_url">
     <img src="/img/about/vcdx.png" alt="VMware Certified Design Expert – #292">
+  </a> -->
+  <a href="https://www.credly.com/badges/110c15d3-0bf5-4462-b5c2-f41ca27ef8cc/public_url">
+    <img src="/media/images/vcp-ma.png" alt="VMware Certified Professional - Application Modernization">
   </a>
 </div>
   <div class="col">
