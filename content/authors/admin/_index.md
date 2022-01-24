@@ -102,7 +102,7 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
     <img src="/img/about/vcdx.png" alt="VMware Certified Design Expert – #292">
   </a> -->
   <a href="https://www.credly.com/badges/110c15d3-0bf5-4462-b5c2-f41ca27ef8cc/public_url">
-    <img src="/media/images/vcp-ma.png" alt="VMware Certified Professional - Application Modernization">
+    <img src="avatar.png" alt="VMware Certified Professional - Application Modernization">
   </a>
 </div>
   <div class="col">

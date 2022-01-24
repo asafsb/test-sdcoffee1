@@ -7,8 +7,8 @@ summary: ""
 authors: [admin]
 tags: [HCX, Networking, VMC on AWS, VMWonAWS, VMware Cloud on AWS]
 categories: [HCX, Networking]
-date: 2021-06-04T01:00:11-00:00
-lastmod: 2021-06-04T01:00:11-00:00
+date: 2021-06-04
+lastmod: 2021-06-04
 featured: false
 draft: false
 
