@@ -44,6 +44,12 @@ https://github.com/vfeskov/vanilla-back-to-top -->
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
   })();
 
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload__counter; gc.defer = true; gc.src = 'https://integration.graphcomment.com/helpers_counter.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+
 
 </script>
 
