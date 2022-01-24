@@ -77,32 +77,26 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
 ## [Certifications](https://www.credly.com/users/asaf-blubshtein/badges?sort=-state_updated_at)
 
 <div class="row">
-  <div class="col-lg-4">
+  <div class="col">
     <a href="https://vexpert.vmware.com/directory/6550">
       <img src="/img/about/vexpert-stars.png" alt="vExpert - 1 year">
     </a>
   </div>
-  <div class="col-lg-4">
+  <div class="col">
     <a href="https://vexpert.vmware.com/directory/6550">
       <img src="/img/about/vexpert-year.png" alt="vExpert - 1 star">
     </a>
   </div>
-  <div class="col-lg-3">
-    <!-- <a href="https://vexpert.vmware.com/directory/6550">
+  <div class="col">
+    <a href="https://vexpert.vmware.com/directory/6550">
       <img src="/img/about/vexpert-vmc.png" alt="vExpert - VMware Cloud on AWS" >
-    </a> -->
-    <a href="https://www.credly.com/badges/d5336284-d504-4220-bb76-b61386cca480/public_url">
-      <img src="/img/about/vcdx.png" alt="VMware Certified Design Expert – #292">
     </a>
   </div>
 </div>
 <div class="row">
 <div class="col">
-  <!-- <a href="https://www.credly.com/badges/d5336284-d504-4220-bb76-b61386cca480/public_url">
+  <a href="https://www.credly.com/badges/d5336284-d504-4220-bb76-b61386cca480/public_url">
     <img src="/img/about/vcdx.png" alt="VMware Certified Design Expert – #292">
-  </a> -->
-  <a href="https://www.credly.com/badges/110c15d3-0bf5-4462-b5c2-f41ca27ef8cc/public_url">
-    <img src="/img/about/vcp-ma.png" alt="VMware Certified Professional - Application Modernization">
   </a>
 </div>
   <div class="col">
@@ -123,6 +117,11 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
 </div>
 <div class="row">
   <div class="col">
+    <a href="https://www.credly.com/badges/110c15d3-0bf5-4462-b5c2-f41ca27ef8cc/public_url">
+      <img src="/img/about/vcp-ma.png" alt="VMware Certified Professional - Application Modernization">
+    </a>
+  </div>
+  <div class="col">
     <a href="https://www.credly.com/badges/5c937e3c-73bf-403f-aea5-7c050149a8a4">
       <img src="/img/about/ccna_rs.png" alt="Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)">
     </a>
@@ -134,9 +133,8 @@ My current role is a Product Solutions Architect within the Cloud Infrastructure
   </div>
   <div class="col">
   </div>
-  <div class="col">
-  </div>
 </div>
+
 
 ## Disclaimer
 
